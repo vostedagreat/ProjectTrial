@@ -1,0 +1,91 @@
+h1{
+    font-weight: bold;
+    font-style: italic;
+    color: rgba(123,11,6,0.61);
+    text-decoration-line: underline;
+    text-align: center;
+    font-size: 48px;
+}
+button{
+    border-radius: 20px;
+    border-style: double;
+    border-width: thick;
+    color: #ff8c05;
+    background-color: black;
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    cursor: pointer;
+}
+button:hover{
+    background-color: lightblue;
+    color: darkgreen;
+}
+h3{
+    font-style: italic;
+    color: #0d3653;
+    text-decoration-line: underline;
+}
+body{
+    background-color: rgba(0,162,55,0.52);
+    font-style: italic;
+    color: turquoise;
+    font-size: 22px;
+    text-align: center;
+}
+h1:hover{
+    color: crimson;
+    text-decoration-line: underline;
+}
+h3{
+    text-align: center;
+}
+h3:hover{
+    color: crimson;
+    text-decoration-line: underline;
+}
+h1{
+     font-style: italic;
+     text-decoration: underline;
+     margin-left: 30%;
+     font-size: xx-large;
+     color: mediumspringgreen;
+ }
+ul{
+    list-style-type: decimal;
+    font-weight: 30%;
+    margin-left: 40%;
+    margin-right: 40%;
+    font-size: x-large;
+    color: chocolate;
+
+}
+ol{
+    list-style-type: lower-roman;
+    font-weight: 30%;
+    margin-left: 40%;
+    margin-right: 40%;
+    font-size: x-large;
+    color: indianred;
+}
+body{
+    background-color: black;
+}
+table{
+    width: 40%;
+    margin-right: 30%;
+    margin-left: 30%;
+    color: crimson;
+
+}
+table, td, th{
+    border: 2px solid turquoise;
+    border-collapse: collapse;
+}
+td{
+    color: lawngreen;
+    padding-left: 20px;
+}
+th{
+    color: crimson;
+}
